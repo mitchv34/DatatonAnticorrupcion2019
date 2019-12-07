@@ -1,0 +1,5 @@
+"source","target","value","tooltip"
+"first","second",1,"link1"
+"first","third",1,"link2"
+"second","third",1,"link3"
+"third","fourth",1,"link4"
